@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cultivation.javaBasic.CollectionsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-11-16T02:45:25" hostname="Alex" time="17.568">
+  <properties/>
+  <testcase name="should_go_through_an_iterator()" classname="com.cultivation.javaBasic.CollectionsTest" time="0.005"/>
+  <testcase name="should_reflects_back_to_original_list_for_sub_range()" classname="com.cultivation.javaBasic.CollectionsTest" time="0.001"/>
+  <testcase name="should_predict_linked_list_operation_result()" classname="com.cultivation.javaBasic.CollectionsTest" time="0.001"/>
+  <testcase name="should_generate_distinct_sequence_on_the_fly()" classname="com.cultivation.javaBasic.CollectionsTest" time="17.554"/>
+  <testcase name="should_create_a_sequence_without_putting_all_items_into_memory()" classname="com.cultivation.javaBasic.CollectionsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
